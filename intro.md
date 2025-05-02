@@ -17,7 +17,7 @@ This project is the result of countless hours of coding, debugging, and refining
 
 ## 💼 Purchase & Download
 
-The **source code is not public** but is available for purchase fo different license tiers. Buyers will receive:
+The **source code is not public** but is available for purchase for different license tiers. Buyers will receive:
 
 - Full access to the private GitHub repository.
 - Ongoing updates and bug fixes.
