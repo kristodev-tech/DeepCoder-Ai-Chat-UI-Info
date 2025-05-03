@@ -42,7 +42,7 @@ The **source code is not public** but is available for purchase for different li
 Feel free to reach out with questions or demo requests! No screen shots or videos here. We want you to try it yourself.
 You can access our login page globally and view the about page. https://deepcoderai.deepcoderai.org/
 We can provide you a unique username and password to login and test drive our chat ui before you decide to purchase. Time limit will be approx: 2-4 hours,due to high demand so let us know what day and time (Pacific,PST) you want to try it out and I'll send you login credentials that will be good for that date/time slot if available.
-Fri-Sat-Sun are preferred as i am more available on those days to assist or answer questions.
+8am to 9pm Fri-Sat-Sun are preferred as i am more available on those days to assist or answer questions.
 
 
 ---
