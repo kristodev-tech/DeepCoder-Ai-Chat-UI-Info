@@ -8,6 +8,7 @@ This repository provides a developer-friendly AI chat UI with editing, formattin
 
 - **Python 3.10+** (tested with Python 3.12)
 - Required packages:
+- pip install -r requirements.txt
 
 ```
 from flask import Flask, request, render_template, redirect, url_for, session, flash, jsonify, send_file
