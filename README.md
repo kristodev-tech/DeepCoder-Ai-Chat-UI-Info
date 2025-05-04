@@ -91,6 +91,7 @@ from reportlab.pdfgen import canvas
 # Load once globally
 from transformers import GPT2TokenizerFast
 ```
+pip install -r requirements.txt
 
 3. Ensure **Ollama** is installed and running locally (GPU or CPU supported).  
 👉 [Install Ollama](https://ollama.com) download the models and correct model sizes we are already using in this version
