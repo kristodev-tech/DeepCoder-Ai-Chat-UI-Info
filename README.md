@@ -1,5 +1,5 @@
 # Deep-Coder-Ai-Chat-UI
-Custom  Ai Web chat UI built on java, Python, flask, Ollama, Cloudflare, Deepseek coder v2/deepseek v2/Codellama by Meta for Personal, developer or commercial use.
+Custom  Ai Web chat UI built on java, Python, flask, Ollama, Cloudflare, Deepseek coder v2/Open Chat/ Text to image generator/deepseek v2/Codellama by Meta for Personal, developer or commercial use.
 # 🚀 DeepCoder AI Chat UI
 
 A Developer-Focused, Fully Featured AI Chat Assistant Powered by Ollama
@@ -9,7 +9,7 @@ A Developer-Focused, Fully Featured AI Chat Assistant Powered by Ollama
 ## 📄 Description
 
 DeepCoder AI Chat UI offers a feature-rich, customizable chat experience for developers, creators, and tech enthusiasts.  
-Built using Flask and Ollama, it integrates powerful models like DeepSeek Coder V2, DeepSeek V2, and Codellama Meta — providing a modern alternative to ChatGPT with enhanced functionality and is also mobile friendly.
+Built using Flask and Ollama, it integrates powerful models like DeepSeek Coder V2, DeepSeek V2, Open Chat, Text to image generator and Codellama Meta — providing a modern alternative to ChatGPT with enhanced functionality and is also mobile friendly.
 
 ---
 
