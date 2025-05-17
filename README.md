@@ -38,7 +38,7 @@ Built using Flask and Ollama, it integrates powerful models like DeepSeek Coder 
 ## 📊 Model Information
 
 - **Primary:** DeepSeek Coder V2 16B (Q4_0 Quantized)
-- **Additional:** DeepSeek V2 14B, Codellama Meta 13B
+- **Additional:** DeepSeek V2 14B, Codellama Meta 13B and Open Chat
 - These models are specifically optimized for technical, scientific, coding, and project-based tasks.
 - Token range: Configured for **up to 3000 tokens per response** for excellent detail without cutting off.
 
