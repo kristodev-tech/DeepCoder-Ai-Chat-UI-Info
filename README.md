@@ -3,6 +3,7 @@ Custom  Ai Web chat UI built on java, Python, flask, Ollama, Cloudflare, Deepsee
 # 🚀 DeepCoder AI Chat UI
 
 A Developer-Focused, Fully Featured AI Chat Assistant Powered by Ollama
+Demo it here: https://deepcoderai.deepcoderai.org/
 
 ---
 
